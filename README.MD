@@ -1,0 +1,1 @@
+I lost my code today and github is extremly weird reporting my entire comand promt to github. yuk I give up today on that. here is the readme
